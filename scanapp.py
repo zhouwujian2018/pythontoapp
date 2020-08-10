@@ -31,4 +31,4 @@ shua('com.tencent.weishi','com.tencent.oscar.module.splash.SplashActivity',100)
 # 快手急速版
 shua('com.kuaishou.nebula','com.yxcorp.gifshow.HomeActivity',100)
 # 火山极速版
-shua('om.ss.android.ugc.livelite','com.ss.android.ugc.live.main.MainActivity',100)
+shua('com.ss.android.ugc.livelite','com.ss.android.ugc.live.main.MainActivity',100)
